@@ -205,6 +205,5 @@ export const seoData = {
 	url: "https://neeraj-kumar.vercel.app/",
 	keywords: [
 		"Neeraj Kumar",
-		"neeraj"
 	],
 }
