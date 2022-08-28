@@ -129,12 +129,7 @@ export const educationInfo = [
 		schoolName: "Kurukshetra University",
 		subHeader: "Kurukshetra University in Computer Science",
 		duration: "September 2014 - April 2018",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		grade: "Grade A",
-		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
+		grade: "Grade A"
 	},
 ];
 
