@@ -209,6 +209,6 @@ export const seoData = {
 		"@1Neeraj Kumar100",
 		"1Neeraj Kumar100",
 		"Portfolio",
-		"Neeraj Kumar Tauqeer Portfolio",
+		"Neeraj Kumar Portfolio",
 	],
 }
