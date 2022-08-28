@@ -192,18 +192,18 @@ export const projects = [
 	},
 ];
 
-// export const feedbacks = [
-// 	{
-// 		name: "John Smith",
-// 		feedback:
-// 			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-// 	},
-// 	{
-// 		name: "John Smith",
-// 		feedback:
-// 			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-// 	},
-// ];
+export const feedbacks = [
+	{
+		name: "John Smith",
+		feedback:
+			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	},
+	{
+		name: "John Smith",
+		feedback:
+			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	},
+];
 
 // See object prototype on SEO.jsx page
 export const seoData = {
