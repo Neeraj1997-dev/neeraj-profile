@@ -202,7 +202,7 @@ export const seoData = {
 		"A passionate Full Stack Web Developer",
 	author: "Neeraj Kumar",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-	url: "https://developer-portfolio-1Neeraj Kumar100.vercel.app",
+	url: "https://neeraj-kumar.vercel.app/",
 	keywords: [
 		"Neeraj Kumar",
 		"Neeraj Kumar",
