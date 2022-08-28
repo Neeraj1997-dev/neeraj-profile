@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Neeraj Kumar",
 	title: "Hi all, I'm Neeraj Kumar",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Golang, Nodejs, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full Stack web developer having an experience of web applications with Golang, Nodejs, React.js, Next.js.",
 	resumeLink:
 		"https://drive.google.com/file/d/13LDSJ5Loyp9gJf2MkhX9G4KE9fsKRWRQ/view?usp=sharing",
 };
@@ -188,22 +188,22 @@ export const projects = [
 	{
 		name: "Soho Mattress",
 		desc: "SOHO was designed and developed by young entrepreneurs, who would dream all day and stay awake all night. Backed up by large conglomerates and mentored by Industry veterans globally. ",
-		github: "http://sohomattress.in/",
+		link: "http://sohomattress.in/",
 	},
 ];
 
-export const feedbacks = [
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
-];
+// export const feedbacks = [
+// 	{
+// 		name: "John Smith",
+// 		feedback:
+// 			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+// 	},
+// 	{
+// 		name: "John Smith",
+// 		feedback:
+// 			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+// 	},
+// ];
 
 // See object prototype on SEO.jsx page
 export const seoData = {
