@@ -201,13 +201,11 @@ export const seoData = {
 	description:
 		"A passionate Full Stack Web Developer",
 	author: "Neeraj Kumar",
-	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+	image: "https://asset.cloudinary.com/dmlfy0hjh/d547275140770dcf0c1fba57cd5846d4",
 	url: "https://neeraj-kumar.vercel.app/",
 	keywords: [
 		"Neeraj Kumar",
-		"Neeraj Kumar",
-		"@1Neeraj Kumar100",
-		"1Neeraj Kumar100",
+		"Neeraj Yadav",
 		"Portfolio",
 		"Neeraj Kumar Portfolio",
 	],
